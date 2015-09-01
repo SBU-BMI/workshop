@@ -3,10 +3,34 @@
 <head>
 <meta charset="UTF-8">
 <title>Dale Test</title>
+<script>
+function add_one(val) {
+    var qty = document.getElementById('qty').value;
+    var new_qty = parseInt(qty,10) + val;
+    document.getElementById('qty').value = new_qty;
+    return new_qty;
+}
+function loop_ten(val) {
+  for (i = 0; i < 10; i++) { 
+    var qty = document.getElementById('qty').value;
+    var new_qty = parseInt(qty,10) + val;
+    document.getElementById('qty').value = new_qty;
+  }
+  return new_qty;
+}
+
+
+</script>
 </head>
 
 <body>
 <h1>Hi</h1>
+
+<input id="qty" value="0" />
+<button id="up" onclick="add_one(1)">Add One</button>
+<button id="up" onclick="loop_ten(1)">Loop Ten</button>
+
+
 </body>
 
 </html>
