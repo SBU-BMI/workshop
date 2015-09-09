@@ -1,0 +1,721 @@
+[ {
+  "pqi_number" : "PQI_01",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "11.66",
+  "expected_rate_per_100_000_people" : "43.67",
+  "year" : "2009",
+  "pqi_name" : "Diabetes Short-term Complications"
+}
+, {
+  "pqi_number" : "PQI_01",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "5.72",
+  "expected_rate_per_100_000_people" : "42.46",
+  "year" : "2010",
+  "pqi_name" : "Diabetes Short-term Complications"
+}
+, {
+  "pqi_number" : "PQI_01",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "5.72",
+  "expected_rate_per_100_000_people" : "46.53",
+  "year" : "2011",
+  "pqi_name" : "Diabetes Short-term Complications"
+}
+, {
+  "pqi_number" : "PQI_01",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "21.89",
+  "expected_rate_per_100_000_people" : "53.79",
+  "year" : "2012",
+  "pqi_name" : "Diabetes Short-term Complications"
+}
+, {
+  "pqi_number" : "PQI_03",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "81.51",
+  "expected_rate_per_100_000_people" : "72.27",
+  "year" : "2009",
+  "pqi_name" : "Diabetes Long-term Complications"
+}
+, {
+  "pqi_number" : "PQI_03",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "85.25",
+  "expected_rate_per_100_000_people" : "72.49",
+  "year" : "2010",
+  "pqi_name" : "Diabetes Long-term Complications"
+}
+, {
+  "pqi_number" : "PQI_03",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "63.03",
+  "expected_rate_per_100_000_people" : "75.24",
+  "year" : "2011",
+  "pqi_name" : "Diabetes Long-term Complications"
+}
+, {
+  "pqi_number" : "PQI_03",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "54.78",
+  "expected_rate_per_100_000_people" : "69.08",
+  "year" : "2012",
+  "pqi_name" : "Diabetes Long-term Complications"
+}
+, {
+  "pqi_number" : "PQI_05",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "278.96",
+  "expected_rate_per_100_000_people" : "473.99",
+  "year" : "2009",
+  "pqi_name" : "Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults"
+}
+, {
+  "pqi_number" : "PQI_05",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "228.14",
+  "expected_rate_per_100_000_people" : "441.21",
+  "year" : "2010",
+  "pqi_name" : "Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults"
+}
+, {
+  "pqi_number" : "PQI_05",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "227.7",
+  "expected_rate_per_100_000_people" : "455.84",
+  "year" : "2011",
+  "pqi_name" : "Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults"
+}
+, {
+  "pqi_number" : "PQI_05",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "276.76",
+  "expected_rate_per_100_000_people" : "442.86",
+  "year" : "2012",
+  "pqi_name" : "Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults"
+}
+, {
+  "pqi_number" : "PQI_07",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "46.64",
+  "expected_rate_per_100_000_people" : "31.35",
+  "year" : "2009",
+  "pqi_name" : "Hypertension"
+}
+, {
+  "pqi_number" : "PQI_07",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "68.2",
+  "expected_rate_per_100_000_people" : "30.69",
+  "year" : "2010",
+  "pqi_name" : "Hypertension"
+}
+, {
+  "pqi_number" : "PQI_07",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "45.87",
+  "expected_rate_per_100_000_people" : "32.12",
+  "year" : "2011",
+  "pqi_name" : "Hypertension"
+}
+, {
+  "pqi_number" : "PQI_07",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "43.89",
+  "expected_rate_per_100_000_people" : "31.35",
+  "year" : "2012",
+  "pqi_name" : "Hypertension"
+}
+, {
+  "pqi_number" : "PQI_08",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "267.96",
+  "expected_rate_per_100_000_people" : "220.66",
+  "year" : "2009",
+  "pqi_name" : "Heart Failure"
+}
+, {
+  "pqi_number" : "PQI_08",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "193.38",
+  "expected_rate_per_100_000_people" : "203.06",
+  "year" : "2010",
+  "pqi_name" : "Heart Failure"
+}
+, {
+  "pqi_number" : "PQI_08",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "246.51",
+  "expected_rate_per_100_000_people" : "208.34",
+  "year" : "2011",
+  "pqi_name" : "Heart Failure"
+}
+, {
+  "pqi_number" : "PQI_08",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "213.73",
+  "expected_rate_per_100_000_people" : "193.49",
+  "year" : "2012",
+  "pqi_name" : "Heart Failure"
+}
+, {
+  "pqi_number" : "PQI_10",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "104.83",
+  "expected_rate_per_100_000_people" : "95.48",
+  "year" : "2009",
+  "pqi_name" : "Dehydration"
+}
+, {
+  "pqi_number" : "PQI_10",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "102.3",
+  "expected_rate_per_100_000_people" : "88.22",
+  "year" : "2010",
+  "pqi_name" : "Dehydration"
+}
+, {
+  "pqi_number" : "PQI_10",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "143.33",
+  "expected_rate_per_100_000_people" : "88.11",
+  "year" : "2011",
+  "pqi_name" : "Dehydration"
+}
+, {
+  "pqi_number" : "PQI_10",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "93.17",
+  "expected_rate_per_100_000_people" : "82.83",
+  "year" : "2012",
+  "pqi_name" : "Dehydration"
+}
+, {
+  "pqi_number" : "PQI_11",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "250.47",
+  "expected_rate_per_100_000_people" : "197.56",
+  "year" : "2009",
+  "pqi_name" : "Bacterial Pneumonia"
+}
+, {
+  "pqi_number" : "PQI_11",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "250.25",
+  "expected_rate_per_100_000_people" : "175.12",
+  "year" : "2010",
+  "pqi_name" : "Bacterial Pneumonia"
+}
+, {
+  "pqi_number" : "PQI_11",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "154.77",
+  "expected_rate_per_100_000_people" : "190.63",
+  "year" : "2011",
+  "pqi_name" : "Bacterial Pneumonia"
+}
+, {
+  "pqi_number" : "PQI_11",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "186.34",
+  "expected_rate_per_100_000_people" : "168.52",
+  "year" : "2012",
+  "pqi_name" : "Bacterial Pneumonia"
+}
+, {
+  "pqi_number" : "PQI_12",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "209.66",
+  "expected_rate_per_100_000_people" : "121.77",
+  "year" : "2009",
+  "pqi_name" : "Urinary Tract Infection"
+}
+, {
+  "pqi_number" : "PQI_12",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "159.17",
+  "expected_rate_per_100_000_people" : "122.21",
+  "year" : "2010",
+  "pqi_name" : "Urinary Tract Infection"
+}
+, {
+  "pqi_number" : "PQI_12",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "223.63",
+  "expected_rate_per_100_000_people" : "123.42",
+  "year" : "2011",
+  "pqi_name" : "Urinary Tract Infection"
+}
+, {
+  "pqi_number" : "PQI_12",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "197.34",
+  "expected_rate_per_100_000_people" : "118.14",
+  "year" : "2012",
+  "pqi_name" : "Urinary Tract Infection"
+}
+, {
+  "pqi_number" : "PQI_13",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "11.66",
+  "expected_rate_per_100_000_people" : "17.38",
+  "year" : "2009",
+  "pqi_name" : "Angina Without Procedure"
+}
+, {
+  "pqi_number" : "PQI_13",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "0",
+  "expected_rate_per_100_000_people" : "14.41",
+  "year" : "2010",
+  "pqi_name" : "Angina Without Procedure"
+}
+, {
+  "pqi_number" : "PQI_13",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "5.72",
+  "expected_rate_per_100_000_people" : "12.65",
+  "year" : "2011",
+  "pqi_name" : "Angina Without Procedure"
+}
+, {
+  "pqi_number" : "PQI_13",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "5.5",
+  "expected_rate_per_100_000_people" : "10.89",
+  "year" : "2012",
+  "pqi_name" : "Angina Without Procedure"
+}
+, {
+  "pqi_number" : "PQI_14",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "0",
+  "expected_rate_per_100_000_people" : "14.74",
+  "year" : "2009",
+  "pqi_name" : "Uncontrolled Diabetes"
+}
+, {
+  "pqi_number" : "PQI_14",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "11.33",
+  "expected_rate_per_100_000_people" : "12.87",
+  "year" : "2010",
+  "pqi_name" : "Uncontrolled Diabetes"
+}
+, {
+  "pqi_number" : "PQI_14",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "5.72",
+  "expected_rate_per_100_000_people" : "11.99",
+  "year" : "2011",
+  "pqi_name" : "Uncontrolled Diabetes"
+}
+, {
+  "pqi_number" : "PQI_14",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "11",
+  "expected_rate_per_100_000_people" : "11.44",
+  "year" : "2012",
+  "pqi_name" : "Uncontrolled Diabetes"
+}
+, {
+  "pqi_number" : "PQI_15",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "20.02",
+  "expected_rate_per_100_000_people" : "68.53",
+  "year" : "2009",
+  "pqi_name" : "Asthma in Younger Adults"
+}
+, {
+  "pqi_number" : "PQI_15",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "0",
+  "expected_rate_per_100_000_people" : "53.9",
+  "year" : "2010",
+  "pqi_name" : "Asthma in Younger Adults"
+}
+, {
+  "pqi_number" : "PQI_15",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "20.02",
+  "expected_rate_per_100_000_people" : "55.99",
+  "year" : "2011",
+  "pqi_name" : "Asthma in Younger Adults"
+}
+, {
+  "pqi_number" : "PQI_15",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "9.13",
+  "expected_rate_per_100_000_people" : "49.28",
+  "year" : "2012",
+  "pqi_name" : "Asthma in Younger Adults"
+}
+, {
+  "pqi_number" : "PQI_16",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "0",
+  "expected_rate_per_100_000_people" : "7.7",
+  "year" : "2009",
+  "pqi_name" : "Lower-Extremity Amputation among Patients with Diabetes"
+}
+, {
+  "pqi_number" : "PQI_16",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "5.72",
+  "expected_rate_per_100_000_people" : "7.37",
+  "year" : "2010",
+  "pqi_name" : "Lower-Extremity Amputation among Patients with Diabetes"
+}
+, {
+  "pqi_number" : "PQI_16",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "0",
+  "expected_rate_per_100_000_people" : "7.7",
+  "year" : "2011",
+  "pqi_name" : "Lower-Extremity Amputation among Patients with Diabetes"
+}
+, {
+  "pqi_number" : "PQI_16",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "11",
+  "expected_rate_per_100_000_people" : "7.7",
+  "year" : "2012",
+  "pqi_name" : "Lower-Extremity Amputation among Patients with Diabetes"
+}
+, {
+  "pqi_number" : "PQI_90",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "1112.54",
+  "expected_rate_per_100_000_people" : "1057.1",
+  "year" : "2009",
+  "pqi_name" : "Prevention Quality Overall Composite"
+}
+, {
+  "pqi_number" : "PQI_90",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "972.4",
+  "expected_rate_per_100_000_people" : "983.73",
+  "year" : "2010",
+  "pqi_name" : "Prevention Quality Overall Composite"
+}
+, {
+  "pqi_number" : "PQI_90",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "1003.42",
+  "expected_rate_per_100_000_people" : "1020.03",
+  "year" : "2011",
+  "pqi_name" : "Prevention Quality Overall Composite"
+}
+, {
+  "pqi_number" : "PQI_90",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "948.2",
+  "expected_rate_per_100_000_people" : "948.64",
+  "year" : "2012",
+  "pqi_name" : "Prevention Quality Overall Composite"
+}
+, {
+  "pqi_number" : "PQI_91",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "564.96",
+  "expected_rate_per_100_000_people" : "414.81",
+  "year" : "2009",
+  "pqi_name" : "Prevention Quality Acute Composite"
+}
+, {
+  "pqi_number" : "PQI_91",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "511.72",
+  "expected_rate_per_100_000_people" : "385.55",
+  "year" : "2010",
+  "pqi_name" : "Prevention Quality Acute Composite"
+}
+, {
+  "pqi_number" : "PQI_91",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "521.84",
+  "expected_rate_per_100_000_people" : "402.16",
+  "year" : "2011",
+  "pqi_name" : "Prevention Quality Acute Composite"
+}
+, {
+  "pqi_number" : "PQI_91",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "476.85",
+  "expected_rate_per_100_000_people" : "369.6",
+  "year" : "2012",
+  "pqi_name" : "Prevention Quality Acute Composite"
+}
+, {
+  "pqi_number" : "PQI_92",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "547.58",
+  "expected_rate_per_100_000_people" : "642.29",
+  "year" : "2009",
+  "pqi_name" : "Prevention Quality Chronic Composite"
+}
+, {
+  "pqi_number" : "PQI_92",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "460.57",
+  "expected_rate_per_100_000_people" : "598.07",
+  "year" : "2010",
+  "pqi_name" : "Prevention Quality Chronic Composite"
+}
+, {
+  "pqi_number" : "PQI_92",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "481.69",
+  "expected_rate_per_100_000_people" : "617.87",
+  "year" : "2011",
+  "pqi_name" : "Prevention Quality Chronic Composite"
+}
+, {
+  "pqi_number" : "PQI_92",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "471.35",
+  "expected_rate_per_100_000_people" : "579.15",
+  "year" : "2012",
+  "pqi_name" : "Prevention Quality Chronic Composite"
+}
+, {
+  "pqi_number" : "PQI_S01",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "93.17",
+  "expected_rate_per_100_000_people" : "135.08",
+  "year" : "2009",
+  "pqi_name" : "Prevention Quality All Diabetes Composite"
+}
+, {
+  "pqi_number" : "PQI_S01",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "102.3",
+  "expected_rate_per_100_000_people" : "132",
+  "year" : "2010",
+  "pqi_name" : "Prevention Quality All Diabetes Composite"
+}
+, {
+  "pqi_number" : "PQI_S01",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "74.58",
+  "expected_rate_per_100_000_people" : "137.72",
+  "year" : "2011",
+  "pqi_name" : "Prevention Quality All Diabetes Composite"
+}
+, {
+  "pqi_number" : "PQI_S01",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "93.17",
+  "expected_rate_per_100_000_people" : "138.38",
+  "year" : "2012",
+  "pqi_name" : "Prevention Quality All Diabetes Composite"
+}
+, {
+  "pqi_number" : "PQI_S02",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "326.15",
+  "expected_rate_per_100_000_people" : "269.39",
+  "year" : "2009",
+  "pqi_name" : "Prevention Quality All Circulatory Composite"
+}
+, {
+  "pqi_number" : "PQI_S02",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "261.58",
+  "expected_rate_per_100_000_people" : "248.16",
+  "year" : "2010",
+  "pqi_name" : "Prevention Quality All Circulatory Composite"
+}
+, {
+  "pqi_number" : "PQI_S02",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "298.21",
+  "expected_rate_per_100_000_people" : "253.11",
+  "year" : "2011",
+  "pqi_name" : "Prevention Quality All Circulatory Composite"
+}
+, {
+  "pqi_number" : "PQI_S02",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "263.12",
+  "expected_rate_per_100_000_people" : "235.62",
+  "year" : "2012",
+  "pqi_name" : "Prevention Quality All Circulatory Composite"
+}
+, {
+  "pqi_number" : "PQI_S03",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "128.15",
+  "expected_rate_per_100_000_people" : "237.82",
+  "year" : "2009",
+  "pqi_name" : "Prevention Quality All Respiratory Composite"
+}
+, {
+  "pqi_number" : "PQI_S03",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "96.69",
+  "expected_rate_per_100_000_people" : "218.02",
+  "year" : "2010",
+  "pqi_name" : "Prevention Quality All Respiratory Composite"
+}
+, {
+  "pqi_number" : "PQI_S03",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "108.9",
+  "expected_rate_per_100_000_people" : "227.15",
+  "year" : "2011",
+  "pqi_name" : "Prevention Quality All Respiratory Composite"
+}
+, {
+  "pqi_number" : "PQI_S03",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "115.06",
+  "expected_rate_per_100_000_people" : "205.15",
+  "year" : "2012",
+  "pqi_name" : "Prevention Quality All Respiratory Composite"
+}
+, {
+  "pqi_number" : "PQI_01",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "21.67",
+  "expected_rate_per_100_000_people" : "53.46",
+  "year" : "2013",
+  "pqi_name" : "Diabetes Short-term Complications"
+}
+, {
+  "pqi_number" : "PQI_03",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "27.06",
+  "expected_rate_per_100_000_people" : "60.17",
+  "year" : "2013",
+  "pqi_name" : "Diabetes Long-term Complications"
+}
+, {
+  "pqi_number" : "PQI_05",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "228.14",
+  "expected_rate_per_100_000_people" : "379.50",
+  "year" : "2013",
+  "pqi_name" : "Chronic Obstructive Pulmonary Disease (COPD) or Asthma in Older Adults"
+}
+, {
+  "pqi_number" : "PQI_07",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "32.45",
+  "expected_rate_per_100_000_people" : "25.30",
+  "year" : "2013",
+  "pqi_name" : "Hypertension"
+}
+, {
+  "pqi_number" : "PQI_08",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "286.66",
+  "expected_rate_per_100_000_people" : "173.36",
+  "year" : "2013",
+  "pqi_name" : "Heart Failure"
+}
+, {
+  "pqi_number" : "PQI_10",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "86.57",
+  "expected_rate_per_100_000_people" : "65.34",
+  "year" : "2013",
+  "pqi_name" : "Dehydration"
+}
+, {
+  "pqi_number" : "PQI_11",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "86.57",
+  "expected_rate_per_100_000_people" : "139.92",
+  "year" : "2013",
+  "pqi_name" : "Bacterial Pneumonia"
+}
+, {
+  "pqi_number" : "PQI_12",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "86.57",
+  "expected_rate_per_100_000_people" : "100.21",
+  "year" : "2013",
+  "pqi_name" : "Urinary Tract Infection"
+}
+, {
+  "pqi_number" : "PQI_13",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "16.28",
+  "expected_rate_per_100_000_people" : "9.13",
+  "year" : "2013",
+  "pqi_name" : "Angina Without Procedure"
+}
+, {
+  "pqi_number" : "PQI_14",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "5.39",
+  "expected_rate_per_100_000_people" : "8.91",
+  "year" : "2013",
+  "pqi_name" : "Uncontrolled Diabetes"
+}
+, {
+  "pqi_number" : "PQI_15",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "0.00",
+  "expected_rate_per_100_000_people" : "41.47",
+  "year" : "2013",
+  "pqi_name" : "Asthma in Younger Adults"
+}
+, {
+  "pqi_number" : "PQI_16",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "0.00",
+  "expected_rate_per_100_000_people" : "7.15",
+  "year" : "2013",
+  "pqi_name" : "Lower-Extremity Amputation among Patients with Diabetes"
+}
+, {
+  "pqi_number" : "PQI_90",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "741.07",
+  "expected_rate_per_100_000_people" : "817.41",
+  "year" : "2013",
+  "pqi_name" : "Prevention Quality Overall Composite"
+}
+, {
+  "pqi_number" : "PQI_91",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "259.60",
+  "expected_rate_per_100_000_people" : "305.47",
+  "year" : "2013",
+  "pqi_name" : "Prevention Quality Acute Composite"
+}
+, {
+  "pqi_number" : "PQI_92",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "481.36",
+  "expected_rate_per_100_000_people" : "511.94",
+  "year" : "2013",
+  "pqi_name" : "Prevention Quality Chronic Composite"
+}
+, {
+  "pqi_number" : "PQI_96",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "54.12",
+  "expected_rate_per_100_000_people" : "126.50",
+  "year" : "2013",
+  "pqi_name" : "Prevention Quality All Diabetes Composite"
+}
+, {
+  "pqi_number" : "PQI_97",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "335.39",
+  "expected_rate_per_100_000_people" : "207.79",
+  "year" : "2013",
+  "pqi_name" : "Prevention Quality All Circulatory Composite"
+}
+, {
+  "pqi_number" : "PQI_98",
+  "patient_zipcode" : "11790",
+  "observed_rate_per_100_000_people" : "91.96",
+  "expected_rate_per_100_000_people" : "177.76",
+  "year" : "2013",
+  "pqi_name" : "Prevention Quality All Respiratory Composite"
+}
+ ]
