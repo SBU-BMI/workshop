@@ -7,17 +7,42 @@ lala = function(x){
     
 }
 
+ourGet=function(url,callback){
+  if(!url){
+    url = 'https://health.data.ny.gov/resource/5q8c-d6xq.json?patient_zipcode=11790'
+  }
 
-function callback () {
-  console.log(this.responseText);
+  if(!callback){
+    callback = function () {
+      console.log(this.responseText);
+    }
+  }
+
+  xhr = new XMLHttpRequest();
+  xhr.addEventListener("load", callback);
+  xhr.open("GET", url, true);
+  xhr.send();
 }
 
-url = 'https://health.data.ny.gov/resource/5q8c-d6xq.json?patient_zipcode=11790'
+cb=function(x){
+  lala=JSON.parse(x.target.responseText);
+  console.log('data loaded onto lala')
+  var ol = document.createElement('ol')
+  document.body.appendChild(ol)
+  ol.id='lele'
+  lala.forEach(function(xi,i){
+    var li = document.createElement('li')
+    ol.appendChild(li)
+    li.innerHTML='<h3>'+xi.pqi_name+'</h3> '+xi.observed_rate_per_100_000_people+'/'+xi.expected_rate_per_100_000_people
+    li.style.color='blue'
+    4
+  })
+  4
+}
+ourGet('http://sbu-bmi.github.io/workshop/pqi11790.json',cb)
 
-xhr = new XMLHttpRequest();
-xhr.addEventListener("load", callback);
-xhr.open("GET", url, true);
-xhr.send();
+
+
 
 //
 
