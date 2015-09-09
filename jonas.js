@@ -22,12 +22,3 @@ xhr.send();
 //
 
 ////
-=======
-console.log('it is chaotic here')
-
-// Jonas getting started
-
-console.log('jonas chaos in the command line')
-
-//Javi was here
->>>>>>> 2ba61f4a88c5ae3725ead3143fdbc9405f33e9ef
