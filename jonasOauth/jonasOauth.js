@@ -27,7 +27,7 @@ jonasOauth = function(){ // ini
 
 jonasOauth.oauth=function(){
 	var oUrl='https://accounts.google.com/o/oauth2/auth' // <-- Google's OAUTH service'
-    document.location.href=oUrl+'?client_id=113010836143-l6sd0qnkhjjmafra08g1tqke1fpk9kvh.apps.googleusercontent.com&response_type=token&scope=email&redirect_uri='+document.location.href
+    document.location.href=oUrl+'?client_id=113010836143-l6sd0qnkhjjmafra08g1tqke1fpk9kvh.apps.googleusercontent.com&response_type=token&scope=email&redirect_uri=https://sbu-bmi.github.io/workshop/jonasOauth'//+document.location.href
 }
 
 // https://accounts.google.com/o/oauth2/auth?client_id=113010836143-l6sd0qnkhjjmafra08g1tqke1fpk9kvh.apps.googleusercontent.com&response_type=token&scope=email&redirect_uri=http://localhost://
