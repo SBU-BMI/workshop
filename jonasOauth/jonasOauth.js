@@ -1,5 +1,12 @@
 console.log('jonasOauth.js loaded')
 
+if(!location.host.match('localhost:')){
+    if(location.protocol=="http:"){
+        location.protocol="https:"
+    }
+}
+
+
 jonasOauth = function(){ // ini
     // ini
     jonasOauth.login={}
