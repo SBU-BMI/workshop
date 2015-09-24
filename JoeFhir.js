@@ -1,3 +1,10 @@
+var joeCerner = function() {
+  //
+  //
+  //
+
+}
+
 
 joeCerner.get=function(url,callback){
   //defaults
