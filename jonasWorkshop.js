@@ -4,7 +4,14 @@ $(document).ready(function() {
     var boxSelect = new BoxSelect();
     // Register a success callback handler
     boxSelect.success(function(response) {
-        console.log(response);
+        response.forEach(function(r){
+            $.get(r.url)
+                .then(function(x){
+                    //console.log('content of the file:',x)
+                    document.body.innerHTML+='<li>'+x+'</li>'
+                })
+        })
+        
     });
     // Register a cancel callback handler
     boxSelect.cancel(function() {
