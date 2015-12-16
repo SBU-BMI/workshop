@@ -8,7 +8,7 @@ ebolaJonas=function(){
 }
 
 ebolaJonas.loadData=function(){
-    var url = 'https://graphics8.nytimes.com/packages/js/newsgraphics/2014/08/06-eboal-cases-deaths.js'
+    var url = 'http://graphics8.nytimes.com/packages/js/newsgraphics/2014/08/06-eboal-cases-deaths.js'
     jQuery.getJSON(url,function(x){
         console.log(x.length+' ebola records loaded')
         ebolaJonas.cleanData(x) // callback function
