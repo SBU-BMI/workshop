@@ -26,10 +26,19 @@ ebolaJonas.cleanData=function(x){ // recognize types
         return xi
     })
     console.log('clean data:',x)
-    return x
+    ebolaJonas.plotData(x)
 }
 
-
+ebolaJonas.plotData=function(x){
+    // create DOM element for plot.ly
+    var div = document.createElement('div') // using primitives for ol'times sake
+    div.id = 'plotlyDiv'
+    document.body.appendChild(div)
+    Plotly.plot( div, [{
+	x: [1, 2, 3, 4, 5],
+	y: [1, 2, 4, 8, 16] }], {
+	margin: { t: 0 } } );
+}
 
 
 $(document).ready(function(){
