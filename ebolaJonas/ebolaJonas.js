@@ -37,9 +37,9 @@ ebolaJonas.cleanData=function(x){ // recognize types
 			y[p][i]=xi[p]
 		})
     })
-    console.log('transposed data:',x)
+    console.log('transposed data:',y)
     
-    ebolaJonas.plotData(y)
+    return ebolaJonas.plotData(y)
 }
 
 ebolaJonas.plotData=function(x){
