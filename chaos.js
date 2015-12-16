@@ -1,5 +1,2 @@
 console.log('it is chaotic here')
-
-// Jonas getting started
-
-console.log('jonas chaos in the command line')
+console.log('it is very chaotic here')
