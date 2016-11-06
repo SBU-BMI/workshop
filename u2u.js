@@ -9,7 +9,7 @@ U2U.getData=function(cb){
     var uid = 'job'+Math.random().toString().slice(2)
     cb = cb || function(x){console.log(x)}
     U2U.jobs[uid]=cb
-    $.getScript(dataUrl+'?callback=U2U.jobs.'+uid)
+    $.getScript(dataUrl+'callback=U2U.jobs.'+uid)
 }
 
 U2U.showData=function(){
